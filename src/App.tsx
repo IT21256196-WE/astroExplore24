@@ -1,6 +1,10 @@
 import { useEffect, useState } from "react";
 import { FaArrowUp } from "react-icons/fa6";
+<<<<<<< HEAD
 //import Messages from "./components/Messages/Messages.js";
+=======
+import Messages from "./components/Messages/Messages.js";
+>>>>>>> f166752fb2d2532d7fd2e68a94a2747d758e2ee5
 import {
   Navbar,
   Hero,
