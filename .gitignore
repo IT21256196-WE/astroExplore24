@@ -24,4 +24,4 @@ dist-ssr
 *.sw?
 
 # Exception for .env file
-*.env
+
